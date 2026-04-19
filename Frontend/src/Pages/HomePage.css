@@ -1,0 +1,19 @@
+.homePage {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+    width: 1000px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 35px;
+    background-color: azure;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}
+.homePage button{
+    margin-right: 20px;
+    padding: 5px 12px;
+}
